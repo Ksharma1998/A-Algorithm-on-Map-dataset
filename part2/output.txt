@@ -1,0 +1,9 @@
+Start in Bloomington,_Indiana
+   Then go to Martinsville,_Indiana via IN_37 for 19 miles
+   Then go to Jct_I-465_&_IN_37_S,_Indiana via IN_37 for 25 miles
+   Then go to Indianapolis,_Indiana via IN_37 for 7 miles
+
+ Total segments:      3
+    Total miles:     51.000
+    Total hours:      1.079
+Total accidents:      0.00010200
