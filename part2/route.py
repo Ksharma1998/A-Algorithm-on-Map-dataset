@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 # route.py : Find routes through maps
 #
-# Code by: {Kethamakka.Karthikeya,kketham, Shivani.Vogiral,svogiral,Richa Jha,ricjha}
+# Code by: {Kethamakka.Karthikeya,kketham}
 #
 # Based on skeleton code by V. Mathur and D. Crandall, January 2021
 #
