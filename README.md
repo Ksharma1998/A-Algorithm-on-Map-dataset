@@ -1,4 +1,5 @@
 Dataset provided by Dr.David.J.Crandall as a part of assignement for Elements of A.I course(CSCI-B-551).
+
 Navigation: Our goal is to find an optimal path between two given cities in the program, The optimality of the path can vary depending upon the 4 parameters mentioned in the problem. They are Distance, Time, Safe, Segment. 
 State Space: The state space for this problem is the entire cities list in the given dataset.
 Successor function: The Successor function for our problem returns the next city for the path for the given city with regards to a cost function.
