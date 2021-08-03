@@ -2,10 +2,13 @@ Dataset provided by Dr.David.J.Crandall as a part of assignement for Elements of
 
 Navigation: Our goal is to find an optimal path between two given cities in the program, The optimality of the path can vary depending upon the 4 parameters mentioned in the problem. They are Distance, Time, Safe, Segment. 
 State Space: The state space for this problem is the entire cities list in the given dataset.
+
 Successor function: The Successor function for our problem returns the next city for the path for the given city with regards to a cost function.
+
 Known issues in the datasets and possible fixes:
 1.	The city-segment data has a few missing keys, Default-Dict is being used to assign default keys to the values.
 2.	The city-gps data has a few missing co-ordinates and cities whenever we encounter this problem I have returned 0 for both latitude and longitude values for the respective city.
+
 Code Description:
 Functional Description:
 Initially, the files have been processed and their data has been stored in dictionaries.
